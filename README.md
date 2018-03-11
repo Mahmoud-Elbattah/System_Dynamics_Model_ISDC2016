@@ -9,6 +9,9 @@ Full-Text available at:
 https://www.systemdynamics.org/assets/conferences/2016/proceed/papers/P1332.pdf
 
 Authors:
+
 Mahmoud Elbattah and Owen Molloy
+
 National University of Ireland Galway
+
 m.elbattah1@nuigalway.ie
